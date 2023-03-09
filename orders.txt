@@ -1,0 +1,3 @@
+Alex;Alex.kaponen@jgjgj;fotboll;2
+Tobias;tob@nti.se;längdåkningsskidor;5
+Tobias;tob@ntig.se;löparskor;67
